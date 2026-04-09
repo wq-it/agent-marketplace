@@ -1,0 +1,9 @@
+[submodule "Trellis"]
+	path = Trellis
+	url = https://github.com/mindfold-ai/Trellis.git
+[submodule "superpowers"]
+	path = superpowers
+	url = https://github.com/obra/superpowers.git
+[submodule "OpenSpec"]
+	path = OpenSpec
+	url = https://github.com/Fission-AI/OpenSpec.git

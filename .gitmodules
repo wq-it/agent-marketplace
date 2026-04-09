@@ -7,3 +7,6 @@
 [submodule "OpenSpec"]
 	path = OpenSpec
 	url = https://github.com/Fission-AI/OpenSpec.git
+[submodule "pi-mono"]
+	path = pi-mono
+	url = https://github.com/badlogic/pi-mono.git
